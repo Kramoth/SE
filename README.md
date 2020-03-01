@@ -1,1 +1,3 @@
 # SE
+
+Nouveau collaborateur
